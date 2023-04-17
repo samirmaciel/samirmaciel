@@ -1,4 +1,4 @@
-### Seja bem vindo(a) ao meu perfil! 👋
+### Seja bem vindo(a) ao meu portifolio de projetos! 👋
 
 <div>
   <img width = "400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=samirmaciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
