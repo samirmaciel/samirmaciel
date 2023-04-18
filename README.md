@@ -1,5 +1,7 @@
-### Seja bem vindo(a) ao meu portifolio de projetos! 👋
-
+###  Olá, eu me chamo Samir! 👋
+  
+🎯 Eu sou desenvolvedor Android
+🪐 Estudante de Analise e Desenvolvimento de Sistemas
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
