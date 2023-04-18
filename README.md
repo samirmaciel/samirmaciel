@@ -1,6 +1,7 @@
 ###  Olá, eu me chamo Samir! 👋
   
 🎯 Eu sou desenvolvedor Android
+
 🪐 Estudante de Analise e Desenvolvimento de Sistemas
 
   <div style="display: inline_block"><br>
