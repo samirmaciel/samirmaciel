@@ -1,6 +1,6 @@
-###  Olá, eu me chamo Samir! 👋
+###  Olá, me chamo Samir! 👋
   
-🎯 Eu sou desenvolvedor Android
+🎯 Sou desenvolvedor de software
 
 🪐 Estudante de Analise e Desenvolvimento de Sistemas
 
